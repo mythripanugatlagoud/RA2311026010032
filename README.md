@@ -45,5 +45,4 @@ node notification_app_be/app.js
 
 
 ## Screenshots
-
-![alt text](<Screenshot 2026-05-02 110754.png>)
+<img width="857" height="939" alt="Screenshot 2026-05-02 110754" src="https://github.com/user-attachments/assets/9861c5e8-34d1-441a-96c6-330a6c674f8f" />
